@@ -1,4 +1,5 @@
-### Hi there 👋
+[![sinkduk's github stats](https://github-readme-stats.vercel.app/api?username=sinkduk&show_icons=true&theme=highcontrast&count_private=true&custom_title=Github%20Action&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)   
+[![sinkduk's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinkduk&theme=highcontrast&langs_count=10&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sinkduk/sinkduk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
